@@ -5,3 +5,6 @@ The algorithm is via a link that is towards the bottom of the code in the commen
 
 # Testing
 This code is still getting tested, as I am unsure if it will solve every time
+
+#Useage
+Use this, test this, rewrite this. Do whatever you want.  Just if you find any errors, reporting them to me would be nice.  So I can fix them
